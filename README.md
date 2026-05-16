@@ -43,8 +43,8 @@ The analysis was performed using Python and visualisation libraries including Pl
 ## Dataset Information
 
 The project combines:
-- Motor vehicle registration data
-- Air Quality Index (AQI) data
+- Motor vehicle registration data, Kaggle: https://www.kaggle.com/datasets/adampq/air-quality-index-by-state-1980-2022
+- Air Quality Index (AQI) data, data.transport.gov: https://data.transportation.gov/Roadways-and-Bridges/Motor-Vehicle-Registrations-1900-2023-MV-1-wide-fo/hwtm-7xmz/about_data
 
 Data was analysed for U.S. states from 2010 to 2020.
 
